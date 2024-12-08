@@ -1,2 +1,8 @@
-# Deep-Learning-Based-Binary-Classification-of-Industrial-Equipment-Images
-Industrial Equipment Defect Classifier A Convolutional Neural Network (CNN)-based project for classifying industrial equipment images as defective or non-defective. This repository includes the complete code for data preprocessing, model training, evaluation, and testing with uploaded images.
+#Industrial Equipment Defect Classifier
+This project implements a convolutional neural network (CNN) to classify images of industrial equipment as either defective or non-defective. The project includes code for training, evaluating, and testing the model, along with instructions for using the model with uploaded images.
+
+Features
+Binary classification of industrial equipment images.
+Pre-trained CNN model for high accuracy.
+Evaluation with accuracy, precision, recall, and a confusion matrix.
+Test individual images for defect classification.
